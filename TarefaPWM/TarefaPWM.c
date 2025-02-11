@@ -33,13 +33,13 @@ int main()
 
     // Inicializa o PWM na posição central
     setPWM(SERVO_MID);
-    sleep_ms(1000);
+    
     move_servo(SERVO_MAX);
-    sleep_ms(3000);
+    sleep_ms(5000);
     move_servo(SERVO_MID);
-    sleep_ms(3000);
+    sleep_ms(5000);
     move_servo(SERVO_MIN);
-    sleep_ms(3000);
+    sleep_ms(5000);
 
     // Oscilação contínua entre 0° e 180°
     uint16_t pos = SERVO_MIN;
