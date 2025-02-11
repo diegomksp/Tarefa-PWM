@@ -46,7 +46,7 @@ int main()
     int direction = 1;
 
     while (true)
-    {
+    { 
         move_servo(pos);
 
         // Atualiza a posição do servo
