@@ -2,7 +2,7 @@
 #include "pico/stdlib.h"
 #include "hardware/pwm.h"
 
-#define SERVO_MOTOR 22  // Pino GPIO conectado ao servo motor
+#define SERVO_MOTOR 12  // Pino GPIO conectado ao servo motor
 #define SERVO_MIN 1000  // Posição mínima do servo (~0 graus)
 #define SERVO_MID 2850  // Posição mínima do servo (~90 graus)
 #define SERVO_MAX 4620 // Posição mínima do servo (~180 graus)

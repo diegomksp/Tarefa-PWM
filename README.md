@@ -35,5 +35,5 @@ Este projeto controla um servo motor usando um Raspberry Pi Pico. O código conf
 Este projeto é de uso livre para fins educacionais e experimentação.
 
 ## Demonstração
-
+https://youtube.com/shorts/XXPFORQckoc?si=5L9jszZ9pxvdHL4w
 
